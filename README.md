@@ -1,1 +1,1 @@
-
+To build a responsive and user-friendly eCommerce website using WordPress and MySQL, with WooCommerce as the core platform for managing products and orders. The system will integrate Google SSO for seamless user authentication, Razorpay for secure online payments, and Gmail SMTP for reliable transactional email delivery.
